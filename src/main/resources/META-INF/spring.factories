@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+ru.maksmusic.maks_starter.service_bot.MenuServiceAutoConfiguration
